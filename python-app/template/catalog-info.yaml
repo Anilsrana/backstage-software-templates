@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: pthon app 1
-  description: Python app that displays time - named 
+  name: pthon app
+  description: Python app that displays 
   annotations:
     github.com/project-slug: anilsrana/${{values.app_name}}
     backstage.io/techdocs-ref: dir:.
