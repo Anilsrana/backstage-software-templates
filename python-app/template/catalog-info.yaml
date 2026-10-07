@@ -4,7 +4,7 @@ metadata:
   name: pthon app
   description: Python app that displays 
   annotations:
-    github.com/project-slug: anilsrana/${{values.app_name}}
+    github.com/project-slug: Anilsrana/backstage-software-templates
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
